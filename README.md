@@ -1,4 +1,7 @@
-﻿# presensi
+
+# Sistem Absensi Berbasis Website dengan Face Recognition dan Geolocation Menggunakan Laravel dan Flask
+
+ #Tampilan Welcome
 ![Tampilan Welcome](https://github.com/l-a-t-h-i-f-a/presensi/blob/main/welcomeabsen.png)
 ![Tampilan Login](https://github.com/l-a-t-h-i-f-a/presensi/blob/main/loginabsen.png))
 ![Tampilan Dashboard Admin](https://github.com/l-a-t-h-i-f-a/presensi/blob/main/admin.png)
